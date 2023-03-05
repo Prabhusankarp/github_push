@@ -1,1 +1,1 @@
-# guthub_push
+# github_push
